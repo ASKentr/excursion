@@ -1,4 +1,4 @@
 #Files to ignore
-*.git/
-*.idea/
+.git/
+.idea/
 *.gitignore
