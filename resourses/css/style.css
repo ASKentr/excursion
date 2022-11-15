@@ -31,3 +31,11 @@ body {
     color: aquamarine;
 }
 
+/* Footer */
+.footer {
+    font-size: 21px;
+    text-align: right;
+    color: gray;
+    
+}
+
