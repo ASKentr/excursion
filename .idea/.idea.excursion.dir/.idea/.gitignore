@@ -12,5 +12,5 @@
 /dataSources/
 /dataSources.local.xml
 # My files to ignore
-.idea/
+/.idea/
 .git/
